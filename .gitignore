@@ -2,6 +2,11 @@
 __pycache__/
 *.py[cod]
 *$py.class
+*.pth
+*.wav
+exp
+
+outputs
 
 # C extensions
 *.so
